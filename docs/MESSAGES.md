@@ -436,10 +436,10 @@ Here's a typical message lifecycle:
 
 ## Related Documentation
 
-- [Getting Started Guide](../../GETTING_STARTED.md) — First-time setup
+- [Getting Started Guide](../GETTING_STARTED.md) — First-time setup
 - [Vehicle Management](VEHICLES.md) — Managing BLE tags and vehicles
 - [Employee Management](PEOPLE.md) — Managing user accounts
-- [Main README](../../README.md) — System overview
+- [Main README](../README.md) — System overview
 
 ---
 

@@ -571,11 +571,11 @@ Before contacting support, try these:
 
 ## Related Documentation
 
-- [Getting Started Guide](../../GETTING_STARTED.md) — First-time setup
+- [Getting Started Guide](../GETTING_STARTED.md) — First-time setup
 - [Vehicle Management](VEHICLES.md) — Vehicles guide
 - [Employee Management](PEOPLE.md) — Employees guide
 - [Message Management](MESSAGES.md) — Messages guide
-- [Main README](../../README.md) — System overview
+- [Main README](../README.md) — System overview
 
 ---
 

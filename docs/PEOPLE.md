@@ -377,9 +377,9 @@ When you create an account, ensure the password meets all requirements:
 
 ## Related Documentation
 
-- [Getting Started Guide](../../GETTING_STARTED.md) — First-time setup
+- [Getting Started Guide](../GETTING_STARTED.md) — First-time setup
 - [Vehicle Management](VEHICLES.md) — Managing BLE tags and vehicles
-- [Main README](../../README.md) — System overview
+- [Main README](../README.md) — System overview
 
 ---
 

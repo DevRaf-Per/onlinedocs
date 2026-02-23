@@ -310,9 +310,9 @@ Keep your fleet in good condition:
 
 ## Related Documentation
 
-- [Getting Started Guide](../../GETTING_STARTED.md) — First-time setup
+- [Getting Started Guide](../GETTING_STARTED.md) — First-time setup
 - [Employee Management](PEOPLE.md) — Managing users who drive vehicles
-- [Main README](../../README.md) — System overview
+- [Main README](../README.md) — System overview
 
 ---
 
